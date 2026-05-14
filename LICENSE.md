@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Strategy | volatility-detection + high-frequency-trading is the best Polymarket strategy, featuring volatility-detection and high-frequency-trading. Smart,
 
 
 
